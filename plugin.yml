@@ -1,0 +1,12 @@
+name: WhitelistMessage
+main: Clarence2810\WhitelistMessage\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+author: Clarence2810
+description: Custom Whitelist Kick Message
+
+permissions:
+  whitelistmessage.notify:
+    description: "Access to get notify when non whitelisted player trying to join in your whitelisted server"
+    default: op

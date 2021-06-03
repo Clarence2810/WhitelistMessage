@@ -1,0 +1,17 @@
+# __          ___     _ _       _ _     _   __  __                                
+# \ \        / / |   (_) |     | (_)   | | |  \/  |                               
+#  \ \  /\  / /| |__  _| |_ ___| |_ ___| |_| \  / | ___  ___ ___  __ _  __ _  ___       Plugin By: Clarence2810
+#   \ \/  \/ / | '_ \| | __/ _ \ | / __| __| |\/| |/ _ \/ __/ __|/ _` |/ _` |/ _ \      Plugin Created: 4:08am 6/3/2021 EST
+#    \  /\  /  | | | | | ||  __/ | \__ \ |_| |  | |  __/\__ \__ \ (_| | (_| |  __/      Support me by donating: https://paypal.me/clarencemine
+#     \/  \/   |_| |_|_|\__\___|_|_|___/\__|_|  |_|\___||___/___/\__,_|\__, |\___|
+#                                                                       __/ |     
+#                                                                      |___/      
+
+# If true its gonna alert whitelisted players or players that have permission that non whitelisted player is trying to join in your whitelisted server
+whitelist-notify: true
+
+# This is the message when whitelisted-notify is set in true, {player} is the name of player trying to join and & is the color key
+whitelist-notify-message: "&cA non whitelisted named &e{player} &cis trying to join but server is whitelisted"
+
+# A custom kick message when non whitelisted player trying to join in your whitelisted server, & is the color key
+kick-message: "&cServer is &ewhite-listed"
