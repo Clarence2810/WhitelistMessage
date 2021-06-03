@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Clarence2810/WhitelistMessage
+build-by-default: true
+branches:
+- main
+projects:
+  WhitelistMessage:
+    path: ""
+    icon: "icon.png"
+...
