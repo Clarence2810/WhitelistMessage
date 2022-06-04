@@ -2,7 +2,7 @@ name: WhitelistMessage
 main: Clarence2810\WhitelistMessage\Main
 version: 1.0.0
 api: 4.0.0
-load: POSTWORLD
+load: STARTUP
 author: Clarence2810
 description: Custom Whitelist Kick Message
 
