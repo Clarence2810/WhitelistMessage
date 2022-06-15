@@ -13,7 +13,7 @@ use pocketmine\{event\Listener,
 
 class Main extends PluginBase implements Listener
 {
-    public function onEnable(): void
+    protected function onEnable(): void
     {
         $this->saveDefaultConfig();
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
